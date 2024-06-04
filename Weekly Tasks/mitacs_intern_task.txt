@@ -1,0 +1,22 @@
+integrating statisticals in llms
+literature review on langchain 
+RAG literature review
+how to output images/plots in asnwer
+integration of excel in chatbot
+
+
+
+
+
+
+Outputs:
+Intrgrating statsticals in langchain to give us better output
+generte image in chatbot
+
+
+
+user query -> statstics -> stastical analysis -> return it to user
+
+sharing updated code
+
+
