@@ -1,0 +1,7 @@
+SFU vpn
+Question searching in database.
+how to identify columns from your querry
+how to querry through structure data 
+stastical analysis on data
+
+understand the question ->  identify the columns -> implement stastical method
